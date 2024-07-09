@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Nike Air Jordan",
+        "price": 80,
+        "feature": true,
+        "company": "nike"
+    },
+
+    {
+        "name": "Nike Air Jordan",
+        "price": 80,
+        "feature": true,
+        "company": "nike"
+    },
+
+    {
+        "name": "Nike Air Jordan",
+        "price": 80,
+        "feature": true,
+        "company": "nike"
+    }
+]
